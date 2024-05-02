@@ -11,7 +11,9 @@ Your mission is to implement the Inverse Kinematics function
 4. Create approrpiate test(s) to show the correct behavior of the Inverse Kinematics solver
 5. Optionally, add visualization to the solving mechanism
 
-##Note: 
+
+## Note: 
+
 Please modify CMakeLists.txt for Eigen library as find_package command does not fetch the library files.  
 
 ![Cmake_Config](https://github.com/VP168/inverse_kinematics_solution/assets/71966193/1de22e31-b473-471d-816d-160e8f1d73de)
